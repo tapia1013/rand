@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap');
+/* 
+* {
+  padding:0;
+  margin: 0;
+  box-sizing: border-box;
+} */
+
+body,html {
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+}
+
+ul li {
+  list-style: none;
+}
+
+
+h1 {
+  color: #502399;
+  font-size: 6rem;
+}
+
+
+#lion-photo {
+  width: 35rem;
+}
+
+.special {
+  color: teal;
+  font-size: 3rem;
+  border: 1px solid teal;
+}
+
+
+
+input[type="password"] {
+  height: 5rem;
+  width: 10rem;
+}
+
+input[type="password"]:focus {
+  outline: 1px solid #6d1dee;
+}
+
+
